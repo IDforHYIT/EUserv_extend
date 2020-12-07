@@ -1,3 +1,5 @@
+> 原仓库：https://github.com/CokeMine/EUserv_extend
+
 # EUserv_extend
 使用Github Action自动续期EUserv免费IPv6 VPS脚本
 
